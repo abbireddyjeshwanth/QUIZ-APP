@@ -1,0 +1,4 @@
+#Wed Sep 18 18:11:04 IST 2019
+base.0=D\:\\Github\\androidl\\QuizApp-Android\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
